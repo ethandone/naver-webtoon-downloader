@@ -2,8 +2,8 @@
 **INSTALLATION**
 
 ```ps1
-git clone https://github.com/ZilverSick/comic.naver-downloader.git
-cd comic.naver-downloader
+git clone https://github.com/ethandone/naver-webtoon-downloader.git
+cd naver-webtoon-downloader
 ```
 **USAGE**
 ```ps1
